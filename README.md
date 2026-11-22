@@ -256,7 +256,7 @@ They share one principle, the same one Agent Foundry states as *capability is no
 - SBOM / SLSA provenance cross-check for MCP server packages
 - Edge targets: firmware images (squashfs / ext4) and embedded-Linux rootfs tarballs
 
-  ## ## How it was built
+ ## How it was built
 
 I architected DeadBolt and directed Claude as my build agent. I set the design, the security
 boundaries, and the review standard, then reviewed and hardened the code myself, including
